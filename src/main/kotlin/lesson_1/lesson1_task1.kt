@@ -1,5 +1,10 @@
 package org.example.lesson_1
 
 fun main(){
-    println("Решение задач 1")
+    var yourOrderNumber = "ваш заказ 75"
+    var customerCommunication = "Благодорим за заказ :>"
+
+    println(yourOrderNumber)
+    println(customerCommunication)
+
 }
